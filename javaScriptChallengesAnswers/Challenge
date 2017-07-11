@@ -1,0 +1,49 @@
+for (var i = 1; i <= 10; i++) {
+	console.log (i);
+}
+
+
+
+var firstName = ' Victoria'
+var lastName = ' Echevarria' 
+
+console.log('Hello there! My name is' + firstName + lastName)
+
+
+
+
+
+
+
+for (var i = 1; i <= 4; i++) {
+	console.log('Victoria Echevarria')
+}
+ 
+
+
+
+
+var SuperTeam = ['Ivan',' Ian', 'Lelie',' Victoria']
+
+for (var i = 0; i <= 3; i++) {
+	console.log(SuperTeam[i] );
+}
+
+
+
+
+
+
+
+
+
+for(var i= 10; i >= 1; i--) {
+	console.log(i);
+}
+
+
+
+
+
+
+
